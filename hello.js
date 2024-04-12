@@ -9,8 +9,8 @@ console.log("Hello, Homer")
 console.log("9")
 console.log(9+5)
 console.log("How's the weather down there?"); console.log("a little chilly");
-console.log("He said,\"Nevermore\"")
-console.log("\"woah\"He said"); console.log("what is 9 plus 10?"); console.log("The man responded"); console.log(9+10)
+console.log("He said, 'Nevermore'")
+console.log("'woah' He said"); console.log("what is 9 plus 10?"); console.log("The man responded"); console.log(9+10)
 
 /*  
 Next, PLAY! 
